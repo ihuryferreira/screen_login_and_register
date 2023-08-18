@@ -1,6 +1,6 @@
 # Aplicativo de Login & Registro de Usuário.
 
-## :Autor: Ihury Ferreira
+## Autor: Ihury Ferreira
 
 -   [React Native](https://reactnative.dev/)
 -   [Expo](https://expo.io/learn)
